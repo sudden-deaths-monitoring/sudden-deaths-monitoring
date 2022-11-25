@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sudden-deaths-monitoring
 - 👀 I’m interested in monitoring sudden deaths in Canada and eventually USA if time permits.
-- 👀 Looking for specific keywords containing at least the string "sudden" to catch clear cut 
-     cases of sudden deaths. 
      
 [comment]: <> (- 🌱 I’m currently learning)
 [comment]: <> (- 💞️ I’m looking to collaborate on ...)
