@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sudden-deaths-monitoring
-- 👀 I’m interested in monitoring sudden deaths in Canada and eventually USA if time permits.
+- 👋 Hi, We are @sudden-deaths-monitoring
+- 👀 We are interested in monitoring sudden deaths in Canada and eventually USA if time permits.
      
 [comment]: <> (- 🌱 I’m currently learning)
 [comment]: <> (- 💞️ I’m looking to collaborate on ...)
