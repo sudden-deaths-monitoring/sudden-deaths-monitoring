@@ -1,4 +1,4 @@
-- 👋 Hi, We are @sudden-deaths-monitoring
+- 👋 Hi, We are @sudden-deaths-monitoring and we are back after having our account flagged and reinstated. Thank you GitHub for hearing our case and letting us do more data analysis!
 - 🕶 We prefer to remain anonymous for security reasons
 - 👀 We are interested in monitoring sudden deaths in Canada and eventually USA if time permits
 - 👀 Looking for specific keywords containing at least the string "sudden" to catch clear cut cases of sudden deaths
